@@ -1,0 +1,8 @@
+{
+  "name": "script-update-web",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ssh2": "^1.16.0"
+  }
+}
